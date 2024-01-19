@@ -17,8 +17,8 @@
 		"svelte": "^3"
 	},
 	"devDependencies": {
-		"prettier": "^2.3.2",
-		"svelte": "^3",
-		"uvu": "^0.5.1"
+		"prettier": "^3.2.4",
+		"svelte": "^4",
+		"uvu": "^0.5.6"
 	}
 }
