@@ -14,7 +14,7 @@
 		"./package.json": "./package.json"
 	},
 	"peerDependencies": {
-		"svelte": "^3"
+		"svelte": "^3 || ^4"
 	},
 	"devDependencies": {
 		"prettier": "^3.2.4",
